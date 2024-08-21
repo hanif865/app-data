@@ -214,7 +214,7 @@
       "id": "FvviGS21DHXH1iiD4Nq6",
       "installmentDate": "2024-07-04",
       "type": "Customer",
-      "balance": -9071,
+      "balance": -9000,
       "createdAt": {
         "seconds": 1718373235,
         "nanoseconds": 247000000
