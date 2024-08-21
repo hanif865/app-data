@@ -1,1 +1,981 @@
-
+{
+    "categories": [
+        {
+            "id": "05WCUlpRoJu67TO1Au89",
+            "name": "কাপ পিরিচ",
+            "imageUrl": null
+        },
+        {
+            "id": "0UukLCnjpEPFrsaNF2ED",
+            "imageUrl": null,
+            "name": "থছচ"
+        },
+        {
+            "id": "10AKHMnicLLMYHWcGvtB",
+            "name": "নতুন ক্যাটাগরি",
+            "imageUrl": null
+        },
+        {
+            "id": "13Rldkqsbq5oUkzWpgck",
+            "imageUrl": null,
+            "name": "Gfdd"
+        },
+        {
+            "id": "1K9F4lMSCBJmA85mLCcD",
+            "imageUrl": null,
+            "name": "চুলা"
+        },
+        {
+            "id": "47vVdw1Scd9SyZfkv41V",
+            "name": "খাট",
+            "imageUrl": null
+        },
+        {
+            "id": "4eGwhxOwaBnhKyvKBGvl",
+            "name": "টেস্ট ক্যাটাগরি",
+            "imageUrl": null
+        },
+        {
+            "id": "5dFC9Ivv3TsfAqWkmiDL",
+            "imageUrl": null,
+            "name": "ক্যাট"
+        },
+        {
+            "id": "7OakNUJJDBn13Ysphd0F",
+            "name": "Gfdd",
+            "imageUrl": null
+        },
+        {
+            "id": "AWsbI1CgyIypzkN8Uwtk",
+            "imageUrl": null,
+            "name": "চুলা"
+        },
+        {
+            "id": "AZ5uLuv8spFGpDXrFYoC",
+            "name": "কেটলি",
+            "imageUrl": null
+        },
+        {
+            "id": "AuNjXrmXBWqK56c3RJc0",
+            "imageUrl": null,
+            "name": "স্মার্টফোন"
+        },
+        {
+            "id": "EiQ0NUlfQMngBTTJyzMi",
+            "imageUrl": null,
+            "name": "প্রেসার কুকার "
+        },
+        {
+            "id": "HM9kqhTzIDbK0b62SqUn",
+            "name": "বালতি",
+            "imageUrl": null
+        },
+        {
+            "id": "MulpH0GHpPs517iVgres",
+            "imageUrl": null,
+            "name": "এক"
+        },
+        {
+            "id": "RnEiajU9YzINcpBuMFV4",
+            "subCategories": [],
+            "name": "ফ্রিজ",
+            "imageUrl": null
+        },
+        {
+            "id": "SH340BuZqdyxRccnKQWf",
+            "imageUrl": null,
+            "name": "স্মার্ট টিভি"
+        },
+        {
+            "id": "TtMX1CP83NRMXpNop0v1",
+            "name": "রাইস কুকার",
+            "imageUrl": null,
+            "subCategories": []
+        },
+        {
+            "id": "USVaIqpwRBn6PIO1Rl8z",
+            "name": "প্রেসার কুকার ",
+            "imageUrl": null
+        },
+        {
+            "id": "aq4PEcyZxdOzq4d09NIm",
+            "name": "ফ্যান",
+            "imageUrl": null
+        },
+        {
+            "id": "djFW0jZjKWIrM7kPonYb",
+            "name": "কেটলি",
+            "imageUrl": null
+        },
+        {
+            "id": "fJmaNerb4oOp631YUiuO",
+            "name": "নতুন ক্যাটাগরি",
+            "imageUrl": null
+        },
+        {
+            "id": "gE1FDMWgehxEoPNNb3bK",
+            "name": "চুলা",
+            "imageUrl": null
+        },
+        {
+            "id": "kPOpBYQnVAbc5RnP3seL",
+            "imageUrl": null,
+            "name": "এক"
+        },
+        {
+            "id": "kRgd6fKwn4pFEsXxhJvq",
+            "imageUrl": null,
+            "name": "প্রেসার কুকার "
+        },
+        {
+            "id": "lvQ6g0TmBahXSjm3OE8S",
+            "imageUrl": null,
+            "name": "Gfdd"
+        },
+        {
+            "id": "nltZdf72qrpIo0Sg5T9F",
+            "imageUrl": null,
+            "subCategories": [],
+            "name": "আইরোন"
+        },
+        {
+            "id": "od7AMM5abjVmtmZVlEOL",
+            "name": "জুতা ",
+            "imageUrl": "file:///data/user/0/com.arif.enterprise/cache/rn_image_picker_lib_temp_61f4ac66-082d-4d46-92ba-6e79cf940bcb.jpg"
+        },
+        {
+            "id": "ra4PupEY1qcFU742U0xg",
+            "imageUrl": null,
+            "name": "স্মার্ট টিভি"
+        },
+        {
+            "id": "rpt6WA8HChPpNv87dDFV",
+            "imageUrl": null,
+            "name": "গাড়ি"
+        },
+        {
+            "id": "s8DJLlyIp4WCrC4Nz2kj",
+            "imageUrl": null,
+            "name": "চামিচ"
+        },
+        {
+            "id": "t0y5lBrAysoxSm8qSiyb",
+            "name": "স্মার্টফোন",
+            "imageUrl": null
+        },
+        {
+            "id": "vu1Erlzg8sAVF95wtpAK",
+            "imageUrl": null,
+            "name": "নিউ"
+        }
+    ],
+    "customers": [
+        {
+            "id": "0rhKe50PPX3EFvAXCJyj",
+            "createdAt": {
+                "seconds": 1718282819,
+                "nanoseconds": 942000000
+            },
+            "type": "Customer",
+            "balance": 20500,
+            "mobileNumber": "01989309121",
+            "name": "ফাতেমা বেগম ",
+            "khatianNumber": "১২/১২৮",
+            "installmentDate": "2024-07-11",
+            "address": "বালুর মাঠ "
+        },
+        {
+            "id": "6trNMBDcxTNFZ5aHfwdi",
+            "createdAt": {
+                "seconds": 1724006220,
+                "nanoseconds": 394000000
+            },
+            "khatianNumber": "২৪৩৬৬",
+            "type": "Customer",
+            "mobileNumber": "01925803696",
+            "balance": -6000,
+            "address": "দিগরাজ",
+            "name": "হারুন "
+        },
+        {
+            "id": "FfIHhySwGARQxa0W7ga1",
+            "address": "খুলনা",
+            "name": "রাকিব ",
+            "khatianNumber": "১১/১২৩",
+            "type": "Customer",
+            "mobileNumber": "01912345678",
+            "balance": -6000,
+            "createdAt": {
+                "seconds": 1723993053,
+                "nanoseconds": 196000000
+            }
+        },
+        {
+            "id": "FvviGS21DHXH1iiD4Nq6",
+            "installmentDate": "2024-07-04",
+            "type": "Customer",
+            "address": "বুড়িরডাঙ্গা",
+            "balance": -10071,
+            "mobileNumber": "01974035135",
+            "name": "হানিফ শেখ",
+            "createdAt": {
+                "seconds": 1718373235,
+                "nanoseconds": 247000000
+            },
+            "khatianNumber": "১১/৩২৪"
+        },
+        {
+            "id": "ROk2LlAxj0G8zg9m0Yd4",
+            "khatianNumber": "১১/৩৪০",
+            "name": "সাকিব",
+            "createdAt": {
+                "seconds": 1723989517,
+                "nanoseconds": 298000000
+            },
+            "type": "Customer",
+            "mobileNumber": "01989123456",
+            "balance": -3000,
+            "address": "দিগরাজ"
+        },
+        {
+            "id": "e4bdmCcBv6m12Vr3Atdg",
+            "type": "Customer",
+            "mobileNumber": "01923456789",
+            "khatianNumber": "৫৩৬/৭৭৫",
+            "address": "আকঠ",
+            "balance": -4455,
+            "name": "নাজমা আক্তার",
+            "createdAt": {
+                "seconds": 1723993641,
+                "nanoseconds": 600000000
+            }
+        },
+        {
+            "id": "g6uyEABZf5ZdmSPX4zgc",
+            "khatianNumber": "১৬৭৩৯",
+            "address": "রৎমল্যদ",
+            "type": "Customer",
+            "name": "নাসিমা আক্তার",
+            "balance": -50555,
+            "createdAt": {
+                "seconds": 1724002189,
+                "nanoseconds": 475000000
+            },
+            "mobileNumber": "01812345678"
+        },
+        {
+            "id": "hRdj4G5sLwn8pDosJmht",
+            "createdAt": {
+                "seconds": 1719599507,
+                "nanoseconds": 184000000
+            },
+            "address": "বালুর মাঠ",
+            "name": "মিলন শেখ",
+            "balance": 24000,
+            "mobileNumber": "01985775519",
+            "type": "Customer",
+            "khatianNumber": "১২/১২০"
+        },
+        {
+            "id": "qC412SXQj15EKpCQCIYR",
+            "address": "খুলনা ",
+            "name": "মামুনুর রশিদ ",
+            "balance": -400,
+            "mobileNumber": "01974035135",
+            "khatianNumber": "১১/৪৪৫",
+            "type": "Customer"
+        }
+    ],
+    "products": [
+        {
+            "id": "FMHFKZ2ihBeQlOYyFAk8",
+            "salePrice": 200,
+            "imageUrl": null,
+            "description": "",
+            "name": "লাইট",
+            "totalStock": 0,
+            "stockManagement": false,
+            "category": "টেস্ট ক্যাটাগরি",
+            "stock": []
+        },
+        {
+            "id": "oBUYo9s7UD2YQSPYduBN",
+            "stockManagement": true,
+            "category": "স্মার্ট টিভি",
+            "salePrice": 1500,
+            "stock": [
+                {
+                    "batch": "2024-06-13T04:57:31.463Z",
+                    "price": 1000,
+                    "quantity": 11
+                },
+                {
+                    "quantity": 25,
+                    "price": 1000,
+                    "batch": "2024-06-13T04:57:35.884Z"
+                },
+                {
+                    "batch": "2024-06-28T18:50:23.986Z",
+                    "price": 2500,
+                    "quantity": 10
+                }
+            ],
+            "totalStock": 46,
+            "name": "ওয়ালটন স্মার্ট টিভি ১৪\"",
+            "imageUrl": null,
+            "description": "এটা হলো বর্ননা"
+        }
+    ],
+    "transactionLogs": [
+        {
+            "id": "2jCoeQsGAB6HZ2u9oTF1",
+            "type": "Added",
+            "batch": "ব্যাচ #3",
+            "date": "2024-06-13T04:57:36.300Z",
+            "quantity": 20,
+            "productId": "oBUYo9s7UD2YQSPYduBN"
+        },
+        {
+            "id": "72lYTRSEwqSRimeNaJwF",
+            "type": "Sold",
+            "batch": "ব্যাচ #1",
+            "date": "2024-08-21T06:16:47.229Z",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "quantity": 1
+        },
+        {
+            "id": "BCFih2Ufw7UO6MLssUca",
+            "batch": "ব্যাচ #4",
+            "quantity": 10,
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "type": "Added",
+            "date": "2024-06-28T18:50:27.956Z"
+        },
+        {
+            "id": "BdTsV1wvAGVpbvFZdRxZ",
+            "date": "2024-06-13T03:18:20.560Z",
+            "batch": "2024-06-13T03:18:18.611Z",
+            "quantity": 20,
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "price": 15000
+        },
+        {
+            "id": "CIwnNnfbgHv4M5mbuHWz",
+            "batch": "ব্যাচ #4",
+            "quantity": 20,
+            "date": "2024-06-13T04:57:36.913Z",
+            "type": "Added",
+            "productId": "oBUYo9s7UD2YQSPYduBN"
+        },
+        {
+            "id": "DP8ksJACpwZ0lNQctoyX",
+            "quantity": 2,
+            "price": 150,
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "batch": "2024-06-13T03:06:00.207Z",
+            "date": "2024-06-13T03:06:00.735Z"
+        },
+        {
+            "id": "GgwtHSV9srtVsYt07GsL",
+            "date": "2024-06-28T18:44:52.283Z",
+            "batch": "ব্যাচ #1",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "quantity": 5,
+            "type": "Sold"
+        },
+        {
+            "id": "Jpishd4MWBRuV9eoXRYx",
+            "type": "Sold",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "quantity": 177,
+            "date": "2024-06-13T06:57:46.485Z",
+            "batch": "ব্যাচ #1"
+        },
+        {
+            "id": "PHmTM1XO4H0fTtmctY3V",
+            "date": "2024-08-21T06:24:11.370Z",
+            "batch": "ব্যাচ #1",
+            "type": "Sold",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "quantity": 3
+        },
+        {
+            "id": "Y8Qwysxo2SreE60E9xiy",
+            "date": "2024-06-13T03:20:58.799Z",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "batch": "2024-06-13T03:20:57.094Z",
+            "price": 12000,
+            "quantity": 20
+        },
+        {
+            "id": "ZqEPYmyRF16rN2XpsApX",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "quantity": 77,
+            "type": "Sold",
+            "date": "2024-06-13T06:36:44.601Z",
+            "batch": "ব্যাচ #1"
+        },
+        {
+            "id": "ZzRtGaxVSITGvY2KBf8z",
+            "type": "Sold",
+            "quantity": 3,
+            "date": "2024-08-21T06:22:43.674Z",
+            "batch": "ব্যাচ #1, ব্যাচ #2",
+            "productId": "oBUYo9s7UD2YQSPYduBN"
+        },
+        {
+            "id": "cCODUzySy8AYqFFyQky8",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "price": 15000,
+            "date": "2024-06-13T03:11:14.127Z",
+            "batch": "Multiple Batches",
+            "quantity": -2
+        },
+        {
+            "id": "gsUG3ZjatxYYj9HnZJmg",
+            "date": "2024-06-13T04:58:19.483Z",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "type": "Sold",
+            "batch": "ব্যাচ #1, ব্যাচ #2",
+            "quantity": 200
+        },
+        {
+            "id": "op1cC0IBz7g1kgFTgAwJ",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "batch": "Multiple Batches",
+            "type": "Sold",
+            "quantity": 30,
+            "date": "2024-06-13T03:24:01.226Z"
+        },
+        {
+            "id": "rp09I5mWaxLv6R9Y0LgC",
+            "quantity": 2,
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "type": "Sold",
+            "batch": "ব্যাচ #1",
+            "date": "2024-06-28T18:48:06.536Z"
+        },
+        {
+            "id": "zC29WNsfVvhZbDv17UWg",
+            "productId": "oBUYo9s7UD2YQSPYduBN",
+            "quantity": 50,
+            "type": "Sold",
+            "batch": "ব্যাচ #1",
+            "date": "2024-06-13T06:57:16.365Z"
+        }
+    ],
+    "transactions": [
+        {
+            "id": "0fvvCz3PuXLcNG5U1uGX",
+            "note": "নেট",
+            "customerId": "FfIHhySwGARQxa0W7ga1",
+            "type": "debt",
+            "amount": 6000,
+            "date": "2024-08-18T20:58:11.168Z"
+        },
+        {
+            "id": "1izk1LjB3SwvvGCffyba",
+            "date": "2024-07-03T22:01:13.749Z",
+            "type": "deposit",
+            "customerId": "qC412SXQj15EKpCQCIYR",
+            "note": "",
+            "amount": 100
+        },
+        {
+            "id": "6xPKUnxuH6dNbmqRpvQD",
+            "note": "",
+            "type": "debt",
+            "date": "2024-06-16T20:38:25.096Z",
+            "customerId": "0rhKe50PPX3EFvAXCJyj",
+            "amount": 5000
+        },
+        {
+            "id": "9453h7Kj4NPT3hwsJZo3",
+            "note": "নোয়াখালীতে",
+            "date": "2024-08-19T09:01:01.772Z",
+            "type": "debt",
+            "customerId": "e4bdmCcBv6m12Vr3Atdg",
+            "amount": 3000
+        },
+        {
+            "id": "9GVypbrcTCh3ANY86xvC",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "amount": 90,
+            "note": "",
+            "date": "2024-06-14T23:28:00.516Z",
+            "type": "deposit"
+        },
+        {
+            "id": "Bl9DIr2am8rHewsAfexW",
+            "date": "2024-06-15T00:38:27.197Z",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "type": "deposit",
+            "note": "",
+            "amount": 5000
+        },
+        {
+            "id": "EedQYAO6ctbWm77D3qcT",
+            "type": "debt",
+            "date": "2024-08-19T09:25:05.549Z",
+            "note": "",
+            "amount": 100,
+            "customerId": "BLMHEGIagQhlkqJ5pHMO"
+        },
+        {
+            "id": "GVwoyUbwagK0nBfV22iw",
+            "note": "লাইট কেনা ",
+            "type": "deposit",
+            "amount": 6000,
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "date": "2024-06-14"
+        },
+        {
+            "id": "H94F9sNvaVgdJ0tm2cyu",
+            "amount": 250,
+            "note": "Test",
+            "customerId": "yPaGoHL6e0OIuOv61ioD",
+            "type": "debt",
+            "date": "2024-08-16T10:49:53.239Z"
+        },
+        {
+            "id": "HsCTmRKLlhns30UI613H",
+            "amount": 1000,
+            "type": "debt",
+            "date": "2024-06-15T00:34:13.944Z",
+            "note": "",
+            "customerId": "FvviGS21DHXH1iiD4Nq6"
+        },
+        {
+            "id": "I21nfBxpTfTbOcmM8OOq",
+            "amount": 600,
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "date": "2024-08-19T18:04:09.708Z",
+            "note": "",
+            "type": "deposit"
+        },
+        {
+            "id": "JbwuwYz4xdDMFQL10YXR",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "amount": 55,
+            "date": "2024-08-19T18:24:16.847Z",
+            "note": "",
+            "type": "debt"
+        },
+        {
+            "id": "Jx9hWWpgUSx08VL4qOSW",
+            "note": "",
+            "date": "2024-06-14T23:26:27.020Z",
+            "amount": 888,
+            "type": "deposit",
+            "customerId": "FvviGS21DHXH1iiD4Nq6"
+        },
+        {
+            "id": "KMOCdrlmDTYLYXG9xyvZ",
+            "type": "deposit",
+            "note": "",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "date": "2024-07-03T22:06:32.194Z",
+            "amount": 100
+        },
+        {
+            "id": "Ku8lHvXSgWs0WQm2kZ9T",
+            "type": "debt",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "amount": 666,
+            "note": "",
+            "date": "2024-08-19T18:25:36.398Z"
+        },
+        {
+            "id": "MhyU5R1uWocLEMqbCwgZ",
+            "date": "2024-06-27T23:35:48.648Z",
+            "customerId": "qC412SXQj15EKpCQCIYR",
+            "amount": 5000,
+            "note": "ফ্রিজ",
+            "type": "debt"
+        },
+        {
+            "id": "OU4jPSpFJfdnbCkFCK8z",
+            "note": "নগদ ",
+            "type": "deposit",
+            "customerId": "0rhKe50PPX3EFvAXCJyj",
+            "amount": 200,
+            "date": "2024-06-21T08:45:30.986Z"
+        },
+        {
+            "id": "PbQfwm9RulO2kEOee4qB",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "type": "deposit",
+            "amount": 100,
+            "date": "2024-07-03T22:23:04.344Z",
+            "note": ""
+        },
+        {
+            "id": "PpIeT4ZlrEP5hBIYjtr6",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "note": "",
+            "type": "debt",
+            "amount": 100,
+            "date": "2024-08-19T18:16:54.507Z"
+        },
+        {
+            "id": "PvD2tDcLf9QWEwymcwfM",
+            "amount": 3000,
+            "note": "ফ্রিজ",
+            "date": "2024-08-18T20:06:37.691Z",
+            "type": "debt",
+            "customerId": "ROk2LlAxj0G8zg9m0Yd4"
+        },
+        {
+            "id": "RmVyQDDjk7XTjUWOI6PL",
+            "amount": 43876,
+            "note": "",
+            "type": "deposit",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "date": "2024-06-15T00:47:47.919Z"
+        },
+        {
+            "id": "RwZhLvSZSQgFfYtd1Stf",
+            "note": "",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "type": "debt",
+            "date": "2024-08-19T18:19:14.308Z",
+            "amount": 45
+        },
+        {
+            "id": "SgM7C3nH39zFXdNS0LwM",
+            "type": "deposit",
+            "date": "2024-06-21T08:29:40.411Z",
+            "note": "নগদ জমা",
+            "amount": 5000,
+            "customerId": "0rhKe50PPX3EFvAXCJyj"
+        },
+        {
+            "id": "TqL8bmYas3PacdMu2925",
+            "date": "2024-06-28T20:24:20.216Z",
+            "amount": 2000,
+            "customerId": "yPaGoHL6e0OIuOv61ioD",
+            "note": "",
+            "type": "deposit"
+        },
+        {
+            "id": "UkALc4OnOJBUW3RHTkTq",
+            "customerId": "yPaGoHL6e0OIuOv61ioD",
+            "amount": 200,
+            "type": "deposit",
+            "date": "2024-08-17T12:22:28.267Z",
+            "note": ""
+        },
+        {
+            "id": "UxE828djjfmYvBEGSGOB",
+            "date": "2024-06-14T23:24:13.295Z",
+            "type": "debt",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "amount": 900,
+            "note": ""
+        },
+        {
+            "id": "VuNUcIabwoqgxK1XFkS8",
+            "amount": 500,
+            "note": "",
+            "date": "2024-07-04T00:31:03.761Z",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "type": "deposit"
+        },
+        {
+            "id": "XIer1qCw6lr8ML3Hdc0I",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "note": "",
+            "date": "2024-06-15T00:33:44.281Z",
+            "type": "debt",
+            "amount": 25000
+        },
+        {
+            "id": "YRBvpgsLjy0sJoXYQBiO",
+            "date": "2024-06-21T08:39:06.890Z",
+            "type": "deposit",
+            "customerId": "0rhKe50PPX3EFvAXCJyj",
+            "note": "নগদ জমা ",
+            "amount": 1000
+        },
+        {
+            "id": "YzQ5NXmTqLa5MVUD5c93",
+            "date": "2024-06-15T00:37:10.069Z",
+            "type": "debt",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "note": "",
+            "amount": 2000
+        },
+        {
+            "id": "aPpTSHyrPfEvUJNIkiNw",
+            "date": "2024-08-19T18:19:14.308Z",
+            "amount": 45,
+            "note": "",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "type": "debt"
+        },
+        {
+            "id": "aY6xKlMorjAOuq23E2IE",
+            "date": "2024-06-28T18:53:42.564Z",
+            "type": "debt",
+            "amount": 15000,
+            "note": "ফ্রিজের বাবদ ",
+            "customerId": "WcgstDKBhqhZ8l2jP8N7"
+        },
+        {
+            "id": "bI3SHAXxpPCH70fXGGJq",
+            "amount": 100,
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "note": "",
+            "type": "debt",
+            "date": "2024-06-15T00:37:31.667Z"
+        },
+        {
+            "id": "c26wlDPGDPgHHZ1Ifuxu",
+            "type": "deposit",
+            "note": "",
+            "amount": 900,
+            "date": "2024-08-19T18:14:10.652Z",
+            "customerId": "FvviGS21DHXH1iiD4Nq6"
+        },
+        {
+            "id": "cKlt5QXxOCKkJLiUCL8o",
+            "note": "ৎছ",
+            "type": "debt",
+            "amount": 5952,
+            "customerId": "BLMHEGIagQhlkqJ5pHMO",
+            "date": "2024-08-18T21:12:44.500Z"
+        },
+        {
+            "id": "cMx99TgVNtmk4VMqKXJ5",
+            "date": "2024-08-16T22:58:28.567Z",
+            "type": "deposit",
+            "note": "বাকি জমা",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "amount": 1800
+        },
+        {
+            "id": "cq0tQ8WtBA8mw6F1Gwqh",
+            "note": "ggggj",
+            "date": "2024-06-14T23:33:36.623Z",
+            "amount": 123,
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "type": "debt"
+        },
+        {
+            "id": "e6ouIb5zqcBMNGfADpt8",
+            "note": "মাইক",
+            "date": "2024-08-19T09:04:47.673Z",
+            "amount": 2500,
+            "customerId": "e4bdmCcBv6m12Vr3Atdg",
+            "type": "debt"
+        },
+        {
+            "id": "ekamuOimwDM591wRWecV",
+            "amount": 5000,
+            "date": "2024-06-28T23:29:59.346Z",
+            "type": "deposit",
+            "note": "",
+            "customerId": "WcgstDKBhqhZ8l2jP8N7"
+        },
+        {
+            "id": "fM7vFLm083ryVGFbt4EH",
+            "amount": 5000,
+            "date": "2024-08-19T09:12:38.677Z",
+            "type": "deposit",
+            "note": "বিকাশ",
+            "customerId": "BLMHEGIagQhlkqJ5pHMO"
+        },
+        {
+            "id": "gA3WGyLZSmG6lcIW2Z0p",
+            "date": "2024-06-18T22:06:12.926Z",
+            "type": "debt",
+            "amount": 580000,
+            "note": "",
+            "customerId": "FvviGS21DHXH1iiD4Nq6"
+        },
+        {
+            "id": "gIa91CqbNLM6ItKyxXHq",
+            "customerId": "g6uyEABZf5ZdmSPX4zgc",
+            "type": "deposit",
+            "amount": 5000,
+            "date": "2024-08-19T17:33:47.444Z",
+            "note": ""
+        },
+        {
+            "id": "gaV5AQHNCIbmAWhANhMx",
+            "amount": 56555,
+            "date": "2024-08-18T23:50:16.273Z",
+            "type": "debt",
+            "customerId": "g6uyEABZf5ZdmSPX4zgc",
+            "note": ""
+        },
+        {
+            "id": "iQXvqlJUMspPaLk5HF1Y",
+            "customerId": "qC412SXQj15EKpCQCIYR",
+            "date": "2024-06-28T18:44:19.275Z",
+            "note": "",
+            "amount": 2000,
+            "type": "deposit"
+        },
+        {
+            "id": "jA55Q0pStNzZ5nMXDyJo",
+            "date": "2024-08-19T09:45:10.188Z",
+            "type": "debt",
+            "note": "খাট",
+            "amount": 6000,
+            "customerId": "6trNMBDcxTNFZ5aHfwdi"
+        },
+        {
+            "id": "jYq4UOW3RrAzedXfwt4J",
+            "date": "2024-08-18T20:05:35.707Z",
+            "note": "বকেয়া ",
+            "customerId": "0rhKe50PPX3EFvAXCJyj",
+            "amount": 2000,
+            "type": "deposit"
+        },
+        {
+            "id": "nIWn2ihYfDJS2wClIYIC",
+            "customerId": "0rhKe50PPX3EFvAXCJyj",
+            "amount": 100,
+            "type": "deposit",
+            "date": "2024-06-21T08:46:10.256Z",
+            "note": ""
+        },
+        {
+            "id": "nSIYgXoRfYqhS9TgvDwG",
+            "note": "",
+            "type": "deposit",
+            "amount": 100,
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "date": "2024-08-19T11:19:53.304Z"
+        },
+        {
+            "id": "p1FUEkY80eBgOawvxphe",
+            "customerId": "qC412SXQj15EKpCQCIYR",
+            "date": "2024-06-27T23:36:16.772Z",
+            "amount": 2500,
+            "note": "নগদ ",
+            "type": "deposit"
+        },
+        {
+            "id": "pfgm6JCr93fVv3zNPEat",
+            "note": "",
+            "date": "2024-06-15T00:34:31.150Z",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "type": "debt",
+            "amount": 1200
+        },
+        {
+            "id": "qGKqPale0lpHItXEXAAn",
+            "type": "deposit",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "amount": 5800,
+            "date": "2024-06-16T21:28:56.326Z",
+            "note": ""
+        },
+        {
+            "id": "qN3plmPcvPZfRqj5IxYY",
+            "note": "বাকি",
+            "amount": 200,
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "type": "debt",
+            "date": "2024-08-16T23:15:04.400Z"
+        },
+        {
+            "id": "qQb6qnu3ZdWAilafkd3f",
+            "date": "2024-06-15T00:34:31.150Z",
+            "type": "debt",
+            "amount": 1200,
+            "note": "",
+            "customerId": "FvviGS21DHXH1iiD4Nq6"
+        },
+        {
+            "id": "rdm52R81dklviQSvk9T5",
+            "note": "লাইট বাবদ",
+            "amount": 3000,
+            "type": "debt",
+            "customerId": "0rhKe50PPX3EFvAXCJyj",
+            "date": "2024-06-21T08:38:11.667Z"
+        },
+        {
+            "id": "reONW1blTk9OKXqiNDZz",
+            "type": "debt",
+            "note": "",
+            "amount": 666,
+            "date": "2024-06-15T00:15:40.036Z",
+            "customerId": "FvviGS21DHXH1iiD4Nq6"
+        },
+        {
+            "id": "sJmRjWbjNJtUONlW9CLE",
+            "note": "",
+            "type": "debt",
+            "customerId": "yPaGoHL6e0OIuOv61ioD",
+            "date": "2024-07-04T00:40:15.536Z",
+            "amount": 4500
+        },
+        {
+            "id": "sldOBLHUJ5aZeuX2A9JY",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "date": "2024-06-14",
+            "note": "cula",
+            "amount": 2000,
+            "type": "debt"
+        },
+        {
+            "id": "wPk8s5ZaWikfshYFTZmw",
+            "date": "2024-08-19T09:48:12.205Z",
+            "type": "debt",
+            "amount": 100,
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "note": ""
+        },
+        {
+            "id": "wX0QuAm1TYj8yaUfKj9V",
+            "amount": 100,
+            "type": "debt",
+            "date": "2024-06-15T00:37:50.793Z",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "note": ""
+        },
+        {
+            "id": "x1TxhHordOYn6jPDyjyo",
+            "date": "2024-08-19T09:10:04.454Z",
+            "note": "নগদ",
+            "amount": 1000,
+            "type": "deposit",
+            "customerId": "g6uyEABZf5ZdmSPX4zgc"
+        },
+        {
+            "id": "xq2nOnVlBt9pqGlxo6ie",
+            "amount": 666,
+            "date": "2024-06-15T00:15:40.036Z",
+            "type": "debt",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "note": ""
+        },
+        {
+            "id": "ygyMitBGMUY5gK3L9Osc",
+            "amount": 2000,
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "type": "debt",
+            "note": "",
+            "date": "2024-06-15T00:37:10.069Z"
+        },
+        {
+            "id": "yhG2YUDVbcdfefsDgjMW",
+            "type": "deposit",
+            "date": "2024-08-19T09:45:54.144Z",
+            "note": "ক্যাশ",
+            "amount": 2000,
+            "customerId": "e4bdmCcBv6m12Vr3Atdg"
+        },
+        {
+            "id": "zULghP9rAO5ZagQd4f4M",
+            "amount": 80000,
+            "note": "",
+            "type": "deposit",
+            "customerId": "FvviGS21DHXH1iiD4Nq6",
+            "date": "2024-08-19T09:47:41.009Z"
+        }
+    ]
+}
